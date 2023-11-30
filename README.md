@@ -2,14 +2,14 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 <img align="right" alt="Coding" width"50px" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 📫 How to reach me **mariam.belamoud@gmail.com**
+- 📫 How to reach me **belamoud.mariam@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mariam-bl-374583205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam BL" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/belamoud-mariam-4b456623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam BL" height="30" width="40" /></a>
 <a href="https://discord.gg/.m#2317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".m#2317" height="30" width="40" /></a>
 </p>
 
